@@ -1,6 +1,11 @@
 Provide trustly hour service
 
 Problem definition
+1. 微信小程序：
+   问题：商户号和商户银行卡
+2. 手机和网页版：可以用统一框架实现，第二阶段工作
+3. 做国外版本的，有商户号，无需微信入口，现成框架
+手机与网页版功能：
 - User Auth
 - Paywall
 - Location detection
